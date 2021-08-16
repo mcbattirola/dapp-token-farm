@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react'
 import Web3 from 'web3'
 
 import Navbar from './Navbar'
-import Balance from './Balance'
 import StakeForm from './StakeForm'
 import './App.css'
 
