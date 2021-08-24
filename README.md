@@ -45,6 +45,7 @@ truffle test
 - Solidity
 - React
 - Truffle
+- Web3.js
 
 # Credits
 Made by [mcbattirola](https://github.com/mcbattirola), inspired by Dappuniversity's [defi-tutorial](https://github.com/dappuniversity/defi_tutorial)
